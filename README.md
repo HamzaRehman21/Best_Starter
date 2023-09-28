@@ -8,14 +8,8 @@
     <a href="https://ibb.co/zP9dfyP"><img src="https://i.ibb.co/Zc49Tnc/Untitled-design-2.png" alt="Untitled-design-2" border="0"></a>
    <a href="https://ibb.co/2hR88PT"><img src="https://i.ibb.co/XL6yypq/Untitled-design-3.png" alt="Untitled-design-3" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>image uploader</a><br />
     <p1>Everyone knows the three types that are fire, water, or grass  Then there was the time we got Pikachu and Evee as starters of either the switch or the original Pokemon Yellow. However, out of the sheer number of them, who is my favorite? Who do I consider to be the best starter? Whether it be by impact, looks, or even type there will never be a starter like charmander (biased decision). Before I begin with my rant, here is a link to reliable website where you can do your own research before you just agree with what I say, it is called bulbapedia: 
-      
-<a href="https://bulbapedia.bulbagarden.net/wiki/Main_Page" target="_blank">Learn More</a>
-
-<a href="https://en.wikipedia.org/wiki/Brown_bear" target="_blank">Learn More</a>
-      
+<a href="https://bulbapedia.bulbagarden.net/wiki/Main_Page" target="_blank">Learn More</a>      
   </body>
-
-
 <html>
 <head>
 </head>
