@@ -11,8 +11,6 @@
 <a href="https://bulbapedia.bulbagarden.net/wiki/Main_Page" target="_blank">Learn More</a>      
   </body>
 <html>
-<head>
-</head>
 <body>
     <h1>Why Charmander is the Best Pokemon Starter</h1>
     <p>My argument for why Charmander is the best Pokemon starter revolves around a combination of factors, including its design, competitive viability, and the personal connection players often form with it.</p>
